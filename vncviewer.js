@@ -1,5 +1,5 @@
 //
-// vnc:... URL handler
+// vnc:... URL handler (See <http://net.ekb.ru/help/VNC/>)
 //
 
 WScript.Interactive=false;
